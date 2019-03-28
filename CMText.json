@@ -11,15 +11,15 @@
       "end": 190,
       "text": "Simple Text 2!"
     },
-        {
+    {
       "start": 300,
       "end": 330,
       "text": "Simple Text 3!"
     },
-        {
+    {
       "start": 420,
       "end": 430,
       "text": "Simple Text 4!"
-    },
+    }
   ]
 }
