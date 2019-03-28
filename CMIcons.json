@@ -2,7 +2,7 @@
   "type": "icon",
   "markerList": [
     {
-      "start": 200,
+      "start": 100,
       "end": 210,
       "markerColor": "#f45642",
       "backgroundColor": "#9e09a0",
@@ -10,7 +10,7 @@
       "iconUrl": "https://cdn0.iconfinder.com/data/icons/football-flat/512/football_soccer_goal_sport_championship_field_kick__navigation_-128.png"
     },
     {
-      "start": 400,
+      "start": 300,
       "end": 410,
       "markerColor": "#f45642",
       "backgroundColor": "#9e09a0",
@@ -18,16 +18,16 @@
       "iconUrl": "http://www.oakleighrecreationcentre.com.au/files/assets/oakleigh-recreation-centre/images/stadium/futsal/futsal-red-card.jpg"
     },
     {
-      "start": 600,
+      "start": 500,
       "end": 610,
       "markerColor": "#f45642",
       "backgroundColor": "#9e09a0",
       "hoverColor": "#ead917",
       "iconUrl": "https://cdn0.iconfinder.com/data/icons/football-flat/512/football_soccer_goal_sport_championship_field_kick__navigation_-128.png",
       "imageUrl": "https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/1532777669-Screen-Shot-2018-07-28-at-6.03.46-pm-960x540.png"
-    },
+    }
     {
-      "start": 800,
+      "start": 700,
       "end": 810,
       "markerColor": "#f45642",
       "backgroundColor": "#9e09a0",
