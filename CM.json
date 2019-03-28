@@ -1,0 +1,29 @@
+{
+  "type": "icon",
+  "markerList": [
+    {
+      "start": 2,
+      "end": 4,
+      "markerColor": "#f45642",
+      "backgroundColor": "#9e09a0",
+      "hoverColor": "#ead917",
+      "iconUrl": "https://cdn0.iconfinder.com/data/icons/football-flat/512/football_soccer_goal_sport_championship_field_kick__navigation_-128.png"
+    },
+    {
+      "start": 9,
+      "end": 10,
+      "markerColor": "#f45642",
+      "backgroundColor": "#9e09a0",
+      "hoverColor": "#ead917",
+      "iconUrl": "https://cdn0.iconfinder.com/data/icons/football-flat/512/football_soccer_goal_sport_championship_field_kick__navigation_-128.png"
+    },
+    {
+      "start": 30,
+      "end": 33,
+      "markerColor": "#f45642",
+      "backgroundColor": "#9e09a0",
+      "hoverColor": "#ead917",
+      "iconUrl": "https://cdn0.iconfinder.com/data/icons/football-flat/512/football_soccer_goal_sport_championship_field_kick__navigation_-128.png"
+    }
+  ]
+}
