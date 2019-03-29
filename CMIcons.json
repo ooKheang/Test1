@@ -3,7 +3,7 @@
   "markerList": [
     {
       "start": 100,
-      "end": 210,
+      "end": 110,
       "markerColor": "#f45642",
       "backgroundColor": "#9e09a0",
       "hoverColor": "#ead917",
@@ -11,7 +11,7 @@
     },
     {
       "start": 300,
-      "end": 410,
+      "end": 310,
       "markerColor": "#f45642",
       "backgroundColor": "#9e09a0",
       "hoverColor": "#ead917",
@@ -19,7 +19,7 @@
     },
     {
       "start": 500,
-      "end": 610,
+      "end": 510,
       "markerColor": "#f45642",
       "backgroundColor": "#9e09a0",
       "hoverColor": "#ead917",
@@ -28,7 +28,7 @@
     },
     {
       "start": 700,
-      "end": 810,
+      "end": 710,
       "markerColor": "#f45642",
       "backgroundColor": "#9e09a0",
       "hoverColor": "#ead917",
